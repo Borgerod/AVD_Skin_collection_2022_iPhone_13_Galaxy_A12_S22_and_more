@@ -1,11 +1,19 @@
-# AVD_Skin_collection_2022_iPhone_13_Galaxy_A12_S22_and_more
-
+# AVD Skin collection 2022 - iPhone 13, Galaxy A12, Galaxy S22 & more
 A Complete AVD Skin collection Updated for 2022, for both Apple and Android phones, but also Pads. 
 Feel free to help add to the repository, i would love some contributions regarding Pads. 
 Look further down to see the list of avd skins, please enjoy!
-
 - For more Android skins, download from official [developer.samsung.com](https://developer.samsung.com/galaxy-emulator-skin/guide.html)
 - For more iOS skins, tough break, make it yourself..
+
+
+## Summary
+- Project:        Private
+- Job Completed:  June 2022
+- Job type:				Skins for Virtual devide
+- Job categogy:		Mobile Application, cross platform,
+- Language:				n/a
+- Style:          n/a
+
 
 ## Table of Contents
 
